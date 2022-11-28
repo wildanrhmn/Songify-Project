@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Songify
 
 Develop an elegant React.js Music Application. 
 
